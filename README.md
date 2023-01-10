@@ -1,2 +1,1 @@
-# practica3
-Practica3 GIT y GITHUB
+Chao Yi Qiu.txt
